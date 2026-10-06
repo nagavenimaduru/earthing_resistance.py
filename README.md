@@ -1,0 +1,1 @@
+# earthing_resistance.py
